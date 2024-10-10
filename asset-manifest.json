@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/deathengine/static/css/main.c8be4148.css",
     "main.js": "/deathengine/static/js/main.6e828263.js",
     "index.html": "/deathengine/index.html",
+    "main.c8be4148.css.map": "/deathengine/static/css/main.c8be4148.css.map",
     "main.6e828263.js.map": "/deathengine/static/js/main.6e828263.js.map"
   },
   "entrypoints": [
+    "static/css/main.c8be4148.css",
     "static/js/main.6e828263.js"
   ]
 }
