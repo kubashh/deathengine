@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/deathengine/static/js/main.6e828263.js",
+    "index.html": "/deathengine/index.html",
+    "main.6e828263.js.map": "/deathengine/static/js/main.6e828263.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6e828263.js"
+  ]
+}
